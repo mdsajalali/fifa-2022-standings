@@ -11,7 +11,7 @@ export default function RootLayout({ children }) {
         <nav className="py-3 border-b-2">
           <div className="flex justify-between">
             <Link href="/">
-              <h1 className="text-3xl font-black text-red-600">FIFA WC 2022</h1>
+              <h1 className="text-3xl font-black text-red-600">FIFA WORLD CUP 2022</h1>
             </Link>
           </div>
         </nav>
